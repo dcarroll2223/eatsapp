@@ -1,5 +1,5 @@
 # eatsapp
-setup responsive navbar for eatsapp
+setup responsive navbar, hero, cards/mobile for eatsapp
 react, tailwind
 
 cd client
